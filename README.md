@@ -1,2 +1,0 @@
-# ReactReduxHooks
-Created with CodeSandbox
